@@ -348,6 +348,7 @@ height: 5vh;
         position: relative;
         right: 25rem;
         top: 20%;
+        width:100%
 
 
     }
@@ -397,7 +398,7 @@ height: 5vh;
         height: 100vh;
         display: flex;
         flex-direction: column;
-        width: 96vw;
+        width: 100%;
         
     }
 
